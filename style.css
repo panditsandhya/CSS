@@ -1,0 +1,106 @@
+#box{
+  background-color: blue;
+}
+.heading{
+  color: red;
+}
+/* button{
+  background-color: green;
+} */
+
+h1{
+  text-align: start;
+
+  /* text-align: end; */
+}
+p{
+  text-align: start;
+  /* text-align: end; */
+
+}
+#para{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  line-height:20px;
+}
+#p1{
+  font-size: 15px;
+  text-transform: capitalize;
+}
+#p2{
+  font-size: 20px;
+  text-transform: lowercase;
+}
+#p3{
+  font-size: 30px;
+  text-transform: uppercase;
+}
+#p4{
+  font-size: 35px;
+  text-transform: none;
+}
+#heading1{
+  text-align: center;
+  font-family: 'Times New Roman';
+
+}
+#paragraph1{
+  text-transform: capitalize;
+  font-family: 'Times New Roman';
+}
+#outer{
+  font-size: 25px;
+  color:red;
+}
+#inner{
+  font-size: 10px;
+  color: blue;
+}
+.div1{
+  height: 350px;
+  width: 200px;
+  border: 2px solid black;
+  
+}
+#div1{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: red;
+  margin: auto;
+  margin-top: 15px;
+  
+}
+#div2{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: yellow;
+  margin: auto;
+  margin-top: 15px;
+}
+#div3{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color:green;
+  margin: auto;
+  margin-top: 15px;
+}
+
+h1{
+  color: blue;
+}
+.div{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+}
+div{
+  background-color: pink;
+}
+span{
+  background-color: pink;
+}
